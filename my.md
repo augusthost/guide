@@ -172,37 +172,45 @@ Python ကတော့ PHP နဲ့ node.js နဲ့ယှဥ်ရင် မ�
 
 #### 2. Frontend Frameworks/Library 
 **React.js**
+
 React.js ကတော့ မြန်မာမှာရော ကမ္ဘာမှာရော အရမ်းသုံးကြလို့ လေ့လာထားရင်လုံးဝမမှားပါဘူး
 တွဲပြီးလေ့လာသင့်တာတော့ Next.js ပါ
 
 
 **Vue.js**
+
 Vue.js ကတော့ခေါတ်စားနေတယ်ဆိုပေမယ့် အလုပ်ခေါ်တာနည်းသေးပါတယ်
 တရုတ် ဟောင်ကောင်တို့မှာပဲအများဆုံးသုံးတာဖြစ်ပါတယ်။
 
 **Angular**
+
 Angular ကတော့ google ကမို့လေ့လာထားရင်လည်းမမှားပါဘူး ဒါပေမယ့် typescript နဲ့ရေးတာမို့ react နဲ့ vue ထက်ခက်ပါတယ် Augular ကိုအလုပ်ခေါ်တာကတော့ ပုံမှန်ပါပဲ react လောက်မများပေမယ့် မြန်မာမှာ Angular သုံးတဲ့ company တွေများပါတယ်။
 
 > မှတ်ချက်။ ။ အလုပ်အတွက်ဆို React ကိုဦးစားပေးလေ့လာပါ Angular နဲ့ vue ကိုတော့ ဒုတိယအနေနဲ့လေ့လာပါ 
 
 #### 3. Backend Frameworks/Library/CMS
 **Laravel**
+
 PHP framework တွေထဲမှာ popular ဖြစ်နေတာကတော့ Laravel ပါ
 အလုပ်အတွက်ဆို Laravel ကိုလိုက်ပါ မြန်မာမှာရော အာရှနိုင်ငံတွေ Laravel ကိုအရမ်းသုံးပါတယ်
 
 **Wordpress CMS**
+
 Wordpress CMS ကတော့ အားလုံးသိတဲ့အတိုင်းပဲကမ္ဘာမှာ အသုံးအများဆုံး CMS ပါ
 သူ့ကိုလေ့လာထားတာကလည်း အလုပ်ရဖို့လွယ်ကူပါတယ်
 
 **Strapi CMS**
+
 Strapi CMS ကတော့ Node.js language အနေနဲ့ ကမ္ဘာမှာ အသုံးအများဆုံး Headless CMS ပါ
 foreign နိုင်ငံ (အထူးသဖြင့် အနောက်နိုင်ငံ)တွေမှာ Strapi CMS ကိုအရမ်းသုံးကြပါတယ်
 
 **Express JS**
+
 Node JS ကိုလိုက်ရင် Express JS ကိုမဖြစ်မနေလေ့လာကြပါတယ်သူက API တွေအလွယ်တကူဆောက်လို့ရလို့
 အရမ်း popular ဖြစ်ပါတယ် Node js သုံးပြီး web development လုပ်ရင် Express.js အမြဲပါပါတယ်။
 
 **Nest JS**
+
 Nest JS ကတော့ Laravel လိုမျိုးပဲ Node.js language အနေနဲ့ အောင်မြင်နေတဲ့ framework ပါ
 foreign နိုင်ငံတွေမှာ Nestjs ကိုအရမ်းသုံးလာကြပါတယ် 
 
@@ -215,9 +223,11 @@ foreign နိုင်ငံတွေမှာ Nestjs ကိုအရမ်း�
 #### Myanmar version
 
 **Ebook from Sir Ei Maung**
+
 - https://github.com/eimg/Books-by-Ei-Maung
 
 **Website/Blog**
+
 - https://techx.myanmarlinks.net/programming
 - https://spiceworksmyanmar.com/blog/
 - https://www.creativecoder.blog/posts/blog
@@ -227,6 +237,7 @@ foreign နိုင်ငံတွေမှာ Nestjs ကိုအရမ်း�
 
 
 **Videos**
+
 - https://www.youtube.com/c/MSquareProgramming/videos
 - https://www.youtube.com/c/SoeThihaNaung/videos
 - https://www.youtube.com/channel/UCNlvntmN0ILTt4Jw7if6Qmw/videos
@@ -236,12 +247,14 @@ foreign နိုင်ငံတွေမှာ Nestjs ကိုအရမ်း�
 #### English version
 
 **Website/Blog**
+
 - https://www.w3schools.com
 - https://medium.com/tag/programming
 - https://www.reddit.com/r/programming
 - https://dev.to
 
 **Videos**
+
 - https://www.youtube.com/c/TraversyMedia/videos
 - https://www.youtube.com/c/WebDevSimplified/videos
 - https://www.youtube.com/c/programmingwithmosh/videos
