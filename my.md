@@ -6,7 +6,7 @@ Web development ဆိုုတာ အရမ်းကျယ်ပြန့်တ
 - ဘယ်ကနေ စ လေ့လာရမယ်
 - web development ဘယ်နှစ်ပိုင်းရှိတယ်
 - ဘယ်အပိုင်းကို လိုက်ရမယ်
-- ဘယ်ဟာတွေက trending ဖြစ်နေတယ် 
+- ဘယ်နည်းပညာတွေ ခေါတ်စားနေတယ် 
 - ဘယ်ဟာကတော့ တကယ့်လက်တွေ့အလုပ်မှာအသုံးဝင်တယ် 
 - ဘယ် video တွေကြည့်ရမယ် 
 
@@ -19,18 +19,20 @@ Web development ဆိုုတာ အရမ်းကျယ်ပြန့်တ
 
 ---------------
 
-### ဘယ်ကနေ စ လေ့လာရမလဲ
+## ဘယ်ကနေ စ လေ့လာရမလဲ
 
 Web development ဆိုတဲ့အတိုင်း HTML , CSS , Javascript ကတော့လုံးဝ အခြေခံပဲဖြစ်ပါတယ်။
 ဒီ ၃ ခုစလုံးက မဖြစ်မနေလေ့လာရမယ့်အရာပါ အကုန်လုံးကို နှောကြေနေအောင် ရနေဖို့ကမလွယ်ဘူးဆိုပေမယ့်
 ဒီ ၃ ခုစလုံးရဲ့ အခြေခံတွေကတော့ သိကိုသိထားရပါမယ်။ 
 
-### web development ဘယ်နှစ်ပိုင်းရှိလဲ
+## web development ဘယ်နှစ်ပိုင်းရှိလဲ
 
-Web development ကအများကြီးရှိပေမယ့် အဓိက 3 ပိုင်းကိုသိထားရပါမယ်
+Web development အဓိက ၅ ပိုင်းရှိပါတယ်။
 
 - frontend
 - backend
+- fullstack
+- tester
 - devops
 
 #### Frontend ဆိုတာ
@@ -63,7 +65,7 @@ Frontend လိုမျိုးပဲ Nodejs , PHP , Python, Go တွေရ�
 laravel ဆိုတာ php ရဲ့ library တစ်မျိုးပေါ့
 
 backend မှာလူသုံးများတဲ့ library, frameworks တွေကတော့
-Express, Next js, Laravel, Sympony စတာတွေပဲဖြစ်ပါတယ်
+Express, Nest js, Laravel, Sympony စတာတွေပဲဖြစ်ပါတယ်
 
 backend မှာကျတော့ library တွေ framework တွေအပြင်တခါတည်း ready made ရေးထားတဲ့ CMS - content managment system တွေပါရှိပါတယ် 
 
@@ -72,8 +74,112 @@ nodejs မှာဆို strapi, ghost တို့ဖြစ်ပြီး pyt
 
 -----------
 
-ဒါကတော့ ကျနော်တို့ AH က recommended ပေးတဲ့ youtube channel, tutorial series and websites တွေပဲဖြစ်ပါတယ် 
+#### Fullstack ဆိုတာ
 
-- Youtube Channel
-- Tutorial Series
-- Websites
+frontend ရော backend ရော ၂ ခုစလုံးပါတဲ့အလုပ်မျိုးပါ
+fullstack developer တစ်ယောက်ကများသောအားဖြင့် senior developer ဖြစ်ပြီး coding skill မှာလည်းတော်တော်ကောင်းကြပါတယ်။
+
+--------
+
+#### Testing ဆိုတာ
+Testing ကတော့ အဓိက websites, web app တွေစစ်ဆေး ပြသနာရှာရတဲ့အလုပ်ပါ။
+သူက frontend, backend ရယ်မဟုတ်တော့ဘူး website, web app တို့အားလုံးကို client တွေလက်ထဲမအပ်ခင် စစ်ဆေးတာ developers တွေရေးထားကို အပြစ်ရှာတာမျိုးပေါ့ အကြောင်းမရှိ အပြစ်ရှာတာတော့မဟုတ်ဘူး သူလည်း သူ့ professional အလုပ်အနေနဲ့ testing လုပ်တဲ့ tools တွေသုံးတယ် website တွေကို အသေးစိတ် စေ့စပ်သေချာစွာ စစ်တယ်
+အချို့ company တွေက tester ကိုသီးသန့်မထားပဲ developers တွေ manager တွေကပဲ စစ်လိုက်တာမျိုးလုပ်ကြပါတယ်။ 
+Tester က frontend,backend,fullstack တို့လိုမဟုတ်ပဲအလုပ်ခေါ်တာနည်းတတ်ပါတယ်။ 
+
+----------
+
+#### Devops ဆိုတာ
+Devops engineer ဆိုတာ website ကို website အနေနဲ့မဟုတ်တော့ပဲ software/app တစ်ခုအနေနဲ့သွားတာဖြစ်တယ် developers တွေအဖွဲ့လိုက်အတူတူ code ရေးတာကို အဆင်ပြေအောင်၊ ရေရှည်မှာ ပြသနာနည်းအောင်၊ resources, memory​ တွေသိပ်မသုံးရပဲ performance တွေကို ကောင်းအောင်၊ task တွေကို automation လုပ်တာ စတာတွေကို အဓိကဦးဆောင်လုပ်ရတဲ့သူပါ။ Devops engineer တွေဟာ coding ကအစ အောက်သက်ကြေခဲ့တဲ့ developer မျိုးဖြစ်ပြီး software development တွေမှာဆိုအဓိက team lead တွေလည်းဖြစ်နေတတ်ပါတယ်။
+
+--------
+
+## ဘယ်အပိုင်းကို လိုက်ရမလဲ
+
+ကျနော်တို့ AH အနေနဲ့အကြံပေးချက်အရဆို
+
+#### Frontend
+animation လေးတွေလှုပ်ရှားမှုတွေ အရောင်တွေအပိုင်းစိတ်ဝင်စားတယ်ဆို
+frontend အပိုင်းကိုလိုက်ပါ
+ပုံဆွဲတာ ပန်းချီဆွဲတာဝါသနာပါတယ် ဆို frontend အပိုင်းကိုလိုက်ပါ
+ခုမှစ လေ့လာမယ်ဆိုတဲ့သူတွေ frontend အပိုင်းကိုလိုက်ပါ
+
+#### Backend
+data တွေ ဖြည့်၊ ဖျက်၊ ပြင်ဆင်တာတွေစိတ်ဝင်စားတယ်ဆို backend ကိုလိုက်ပါ
+Algorithms တွေ၊ logic တွေတွေးခေါ်တာမျိုး စိတ်ဝင်စားတယ်ဆို backend ကိုလိုက်ပါ
+အရောင်တွေ ပုံဆွဲ ပန်းချီဆွဲတာတွေကို ဝါသနာမပါဘူးဆို backend အပိုင်းကိုလိုက်ပါ
+> မှတ်ချက်။ ။ backend ကိုတခါတည်းလေ့လာရင် ခက်ခဲတာမို့ frontend အခြေခံလေးရှိထားရပါမယ်။
+
+#### Fullstack
+ရှေ့က frontend နဲ့ backend မရပဲ fullstack သွားလို့မရပါ။ 
+frontend လည်းရ backend လည်းရပြီလို့ထင်ရင် fullstack အနေနဲ့သွားနိုင်ပါတယ်။ 
+senior developer အနေနဲ့အများကို ဦးဆောင်တာမျိုးလုပ်ချင်တယ်ဆို fullstack သွားလို့ရပါတယ်။
+
+#### Testing
+အလုပ်ကိုစေ့စေ့စပ်စပ် သေသေချာချာလုပ်တတ်တဲ့သူမျိုးဆို testing အပိုင်းလိုက်ပါ 
+frontend , backend, fullstack ပိုင်းတွေလို coding သိပ်မရေးချင်ဘူးဆို Testing အပိုင်းလိုက်လိုက်လို့ရပါတယ်
+အလုပ်ခေါ်တာလည်းနည်းတတ်လို့ Testing လိုင်းကိုလိုက်တဲ့သူနည်းကြပါတယ် တဘက်ကပြန်တွေးရင် Tester တွေရှားပါးတဲ့အတွက် အလုပ်ရရင်လစာ ကောင်းတတ်ပါတယ်
+
+#### Devops
+ရှေ့က frontend, backend နဲ့ fullstack လုပ်ပြီးမှ Devops ကိုသွားသင့်ပါတယ် 
+website တင်မဟုတ်ပဲ software development တစ်ခုလုံးကိုပါစိတ်ဝင်စားတယ် ပြီးတော့ developers တွေအများကြီးနဲ့ အတူတူလုပ်ချင်တယ်၊ ဦးဆောင်ချင်တယ်၊ လစာ ကောင်းချင်တယ်ဆို devops လိုင်းကိုသွားသင့်ပါတယ်။  
+
+-----
+
+## ဘယ်နည်းပညာတွေ ခေါတ်စားနေသလဲ
+
+2022 ထဲမှာ 
+language အနေနဲ့ခေါတ်စားတာတော့
+Javascript, Python, PHP, Go, Dart တို့ပဲဖြစ်ပါတယ်။
+
+Frontend အပိုင်း JS ခေါတ်စားနေတာကတော့ React, Vue, Angular, Svelte, Alpine, Nextjs, Nuxtjs, Gatsby, Gridsome, Redux, Vuex, Vite, Rollup, Eletron နဲ့ Typescript တို့ပဲဖြစ်ပါတယ်
+
+Frontend အပိုင်း CSS ခေါတ်စားနေတာကတော့ Bootstrap, Sass, Post-CSS, Tailwind, Bulma, UIKIT နဲ့ Unocss တို့ပဲဖြစ်ပါတယ်
+
+Backend အပိုင်း framework/CMS တွေခေါတ်စားနေတာကတော့ Laravel, Strapi, Wordpress, Nestjs, HeadlessCMS, Deno, Express နဲ့ Symphony တို့ပဲဖြစ်ပါတယ်။
+
+Web3, Serverless, GraphQL, Headless, Jamstack, Microservices စတဲ့ web development နည်းပညာတွေလည်း ခေါတ်စားနေပါတယ်။ 
+
+> မှတ်ချက် ဒါတွေကတော့ 2022 မှာခေါတ်စားနေတာပဲပြောပြတာဖြစ်ပါတယ် နာမည်တစ်ခုချင်းစီက အရမ်းကျယ်ပြန့်ပြီး အချိန်ပေးပြီးမှလေ့လာရပါမယ်။
+
+
+## ဘယ်ဟာကတော့ တကယ့်လက်တွေ့အလုပ်မှာအသုံးဝင်သလဲ
+အပေါ်မှာရေးသွားတဲ့ languages/framework/library/CMS တွေအများကြီးပဲ ဒါပေမယ့် 
+မြန်မာနိုင်ငံက programmer တစ်ယောက်အနေနဲ့ ဘယ်ဟာကတကယ် အသုံးဝင်လဲဆိုတော့
+
+- Language (PHP, Javascript, Node.js, Python)
+- Frontend Frameworks/Library (React, Vue, Angular, Nextjs)
+- Backend Frameworks/Library (Laravel, Wordpress, Custom Node.js)
+
+#### language
+**PHP**
+
+အလုပ်အတွက်ဆို PHP ကို No1 လေ့လာစေချင်ပါတယ် မြန်မာနိုင်ငံမှာ company တွေတော်တော်များများက PHP နဲ့ရေးကြတာဖြစ်ပါတယ်။ 
+မြန်မာမှာ Node.js သုံးတဲ့ company တွေနည်းသေးပါတယ်။ 
+
+**Node.js**
+
+လစာနည်းနည်းကောင်းမယ် နိုင်ငံတကာက company တွေနဲ့အလုပ်လုပ်ချင်တယ်ဆို Node.js ကိုလေ့လာပါ foreign နိုင်ငံတွေ (အထူးသဖြင့် အနောက်နိုင်ငံတွေ) မှာကတော့ Node.js သုံးတာများပါတယ်။
+
+**Python**
+
+Pythons ကတော့ PHP နဲ့ node.js နဲ့ယှဥ်ရင် မြန်မာပြည်မှာ အလုပ်နည်းသေးပါတယ် ဒါပေမယ့် foreign နိုင်ငံတွေမှာကတော့ ခေါ်တာများသလို လစာ လည်းတော်တော်မြင့်ပါတယ်။
+
+#### Frontend Frameworks/Library 
+**React.js**
+React.js ကတော့ မြန်မာမှာရော ကမ္ဘာမှာရော အရမ်းသုံးကြလို့ လေ့လာထားရင်လုံးဝမမှားပါဘူး
+တွဲပြီးလေ့လာသင့်တာတော့ Next.js ပါ
+
+
+**Vue.js**
+Vue.js ကတော့ခေါတ်စားနေတယ်ဆိုပေမယ့် အလုပ်ခေါ်တာနည်းသေးပါတယ်
+တရုတ် ဟောင်ကောင်တို့မှာပဲအများဆုံးသုံးတာဖြစ်ပါတယ်။
+
+**Angular**
+Angular ကတော့ google ကမို့လေ့လာထားရင်လည်းမမှားပါဘူး ဒါပေမယ့် typescript နဲ့ရေးတာမို့ react နဲ့ vue ထက်ခက်ပါတယ် 
+
+#### Backend Frameworks/Library
+
+
+
+
