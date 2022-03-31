@@ -65,7 +65,7 @@ Frontend လိုမျိုးပဲ Nodejs , PHP , Python, Go တွေရ�
 laravel ဆိုတာ php ရဲ့ library တစ်မျိုးပေါ့
 
 backend မှာလူသုံးများတဲ့ library, frameworks တွေကတော့
-Express, Nest js, Laravel, Sympony စတာတွေပဲဖြစ်ပါတယ်
+Laravel, Express, Nest js, Laravel, Sympony စတာတွေပဲဖြစ်ပါတယ်
 
 backend မှာကျတော့ library တွေ framework တွေအပြင်တခါတည်း ready made ရေးထားတဲ့ CMS - content managment system တွေပါရှိပါတယ် 
 
@@ -165,7 +165,7 @@ Web3, Serverless, GraphQL, Headless, Jamstack, Microservices စတဲ့ web de
 
 **Python**
 
-Pythons ကတော့ PHP နဲ့ node.js နဲ့ယှဥ်ရင် မြန်မာပြည်မှာ အလုပ်နည်းသေးပါတယ် ဒါပေမယ့် foreign နိုင်ငံတွေမှာကတော့ ခေါ်တာများသလို လစာ လည်းတော်တော်မြင့်ပါတယ်။
+Python ကတော့ PHP နဲ့ node.js နဲ့ယှဥ်ရင် မြန်မာပြည်မှာ အလုပ်နည်းသေးပါတယ် ဒါပေမယ့် foreign နိုင်ငံတွေမှာကတော့ ခေါ်တာများသလို လစာ လည်းတော်တော်မြင့်ပါတယ်။
 
 > မှတ်ချက်။ ။ အလုပ်အတွက်ဆို PHP ကိုဦးစားပေးလေ့လာပါ Node.js နဲ့ Python ကိုတော့ ဒုတိယအနေနဲ့လေ့လာပါ 
 
