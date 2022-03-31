@@ -232,7 +232,6 @@ foreign နိုင်ငံတွေမှာ Nestjs ကိုအရမ်း�
 
 **Website/Blog**
 
-- https://spiceworksmyanmar.com/blog/
 - https://www.creativecoder.blog/posts/blog
 - https://www.aprogrammer.blog/series
 - https://www.mmcoder.com/article
