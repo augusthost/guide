@@ -232,12 +232,12 @@ foreign နိုင်ငံတွေမှာ Nestjs ကိုအရမ်း�
 
 **Website/Blog**
 
-- https://techx.myanmarlinks.net/programming
 - https://spiceworksmyanmar.com/blog/
 - https://www.creativecoder.blog/posts/blog
 - https://www.aprogrammer.blog/series
 - https://www.mmcoder.com/article
 - https://blog.saturngod.net/
+- https://techx.myanmarlinks.net/programming
 
 
 **Videos**
