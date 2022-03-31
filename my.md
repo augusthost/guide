@@ -33,7 +33,7 @@ Web development အဓိက ၅ ပိုင်းရှိပါတယ်။
 - backend
 - fullstack
 - tester
-- devops
+- devops 
 
 #### Frontend ဆိုတာ
 User interface, website ရဲ့ design, color တွေ layouts တွေအပိုင်း
@@ -219,6 +219,10 @@ foreign နိုင်ငံတွေမှာ Nestjs ကိုအရမ်း�
 ----------
 
 ## ဘယ်ဟာတွေကိုအဓိကလေ့လာရမလဲ <a name="resources"></a>
+
+ဒီအောက်က ebook, blog, web, videos တွေကို **ဇွဲရှိရှိနဲ့** ဝင်ပြီးလေ့လာပါ 
+
+> ကျနော်တို့ AH က recommended လုပ်တဲ့ list ပဲဖြစ်ပါတယ် 
 
 #### Myanmar version
 
