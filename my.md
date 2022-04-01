@@ -154,6 +154,11 @@ Web3, Serverless, GraphQL, Headless, Jamstack, Microservices စတဲ့ web de
 တို့ပဲဖြစ်ပါတယ်။
 
 #### 1. Language
+**Javascript**
+
+Javascript က website, web app, mobile app, desktop app တွေအကုန်ရေးနိုင်တာမို့ လေ့လာထားရင်လုံးဝ မမှားပါဘူး
+အထူးသဖြင့် react, vue, angular တစ်ခုခုပေါ့ ဒီ ၃ ခုထဲကတစ်ခုကိုကောင်းကောင်းရရင် frontend အလုပ်ရဖို့ သေချာပါတယ်။ 
+
 **PHP**
 
 အလုပ်အတွက်ဆို PHP ကို No1 လေ့လာစေချင်ပါတယ် မြန်မာနိုင်ငံမှာ company တွေတော်တော်များများက PHP နဲ့ရေးကြတာဖြစ်ပါတယ်။ 
