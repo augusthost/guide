@@ -154,19 +154,20 @@ Web3, Serverless, GraphQL, Headless, Jamstack, Microservices စတဲ့ web de
 တို့ပဲဖြစ်ပါတယ်။
 
 #### 1. Language
-**Javascript**
+**Javascript (client side language)**
 
 Javascript က website, web app, mobile app, desktop app တွေအကုန်ရေးနိုင်တာမို့ လေ့လာထားရင်လုံးဝ မမှားပါဘူး
 အထူးသဖြင့် react, vue, angular တစ်ခုခုပေါ့ ဒီ ၃ ခုထဲကတစ်ခုကိုကောင်းကောင်းရရင် frontend အလုပ်ရဖို့ သေချာပါတယ်။ 
+javascript က node.js နဲ့ရေးပုံရေးနည်းတူတူပဲမို့ တစ်ခုတည်းလေ့လာရုံနဲ့ ၂ ခုရနိုင်တဲ့သဘောပါ။
+
+**Node.js (server side language)**
+
+လစာနည်းနည်းကောင်းမယ် နိုင်ငံတကာက company တွေနဲ့အလုပ်လုပ်ချင်တယ်ဆို Node.js ကိုလေ့လာပါ foreign နိုင်ငံတွေ (အထူးသဖြင့် အနောက်နိုင်ငံတွေ) မှာကတော့ Node.js သုံးတာများပါတယ်။
 
 **PHP**
 
 အလုပ်အတွက်ဆို PHP ကို No1 လေ့လာစေချင်ပါတယ် မြန်မာနိုင်ငံမှာ company တွေတော်တော်များများက PHP နဲ့ရေးကြတာဖြစ်ပါတယ်။ 
 မြန်မာမှာ Node.js သုံးတဲ့ company တွေနည်းသေးပါတယ်။ 
-
-**Node.js**
-
-လစာနည်းနည်းကောင်းမယ် နိုင်ငံတကာက company တွေနဲ့အလုပ်လုပ်ချင်တယ်ဆို Node.js ကိုလေ့လာပါ foreign နိုင်ငံတွေ (အထူးသဖြင့် အနောက်နိုင်ငံတွေ) မှာကတော့ Node.js သုံးတာများပါတယ်။
 
 **Python**
 
