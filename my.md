@@ -65,7 +65,7 @@ Frontend လိုမျိုးပဲ Nodejs , PHP , Python, Go တွေရ�
 laravel ဆိုတာ php ရဲ့ library တစ်မျိုးပေါ့
 
 backend မှာလူသုံးများတဲ့ library, frameworks တွေကတော့
-Laravel, Express, Nest js, Laravel, Sympony စတာတွေပဲဖြစ်ပါတယ်
+Laravel, Express, Nest js, Sympony စတာတွေပဲဖြစ်ပါတယ်
 
 backend မှာကျတော့ library တွေ framework တွေအပြင်တခါတည်း ready made ရေးထားတဲ့ CMS - content managment system တွေပါရှိပါတယ် 
 
